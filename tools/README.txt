@@ -1,5 +1,13 @@
 Tools For Dis2rbed
 
+[ Risk Warning ] - Use at your own risk
+
+You Need Note That If You Use Tools
+
+You will lose the right to submit a Ban Report in the Community
+
+[ If you get banned, please check https://youtu.be/hWl0EAKuYKk , this method is only available for Steam and Epic accounts ]
+
 [Download] 
 
 -  Offical
@@ -7,12 +15,6 @@ https://w1tch.net/files/file/66-tools/
 
 -  Backup
 https://github.com/modlc/tools
-
-[Risk Warning]
-
-There is no such thing as a daily safety limit, and the conclusion is always that the less the better and Download means at your own risk.
-
-[ If you really get banned, please check https://youtu.be/hWl0EAKuYKk , this method is only available for Steam and Epic accounts ]
 
 [Installation]
 
