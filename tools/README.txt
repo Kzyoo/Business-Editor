@@ -17,41 +17,41 @@ https://w1tch.net/files/file/66-tools/
 https://github.com/modlc/tools
 
 [Installation]
-
-Download the file and unzip it, then put the tools folder into Lua Folder
+Download the file and unzip it, then put the tools folder into move to there
 
 [Tutorials Video]
-
 https://youtube.com/playlist?list=PLS7kTnJ3PNpkCghLi9cnZLZxLjRsGE4yh
 
-[Advice for Daily Use] - Use At at your own risk
+[Check the Menu Tutorial]
+DIS2RBED Injection Tutorial & Troubleshooting - DIS2RBED - w1tch community
 
-1. Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M = 11M
+[Personal advice for Daily Use]
 
-2. Classic heist = Once Per day ~ Fleeca 6M/15M or Pacific Standard 6M/15M + Mastermind Award 12M (24 hour interval)
+Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M = 11M
 
-3. Doom's day Senario Mastermind = Once per day ~ 4P 2.5M+4.6M or 3P 2.5M+2.4M or 2P 2.5M+1.3M (12 hour interval)
+Classic heist = Once Per day ~ Fleeca 6M/15M or Pacific Standard 6M/15M + Mastermind Award 12M (24 hour interval)
 
-4. MC Business = Recommended to ship Twice per day ~ 7.5M * 2 = 15M (24 hour interval)
+Doom's day Senario Mastermind = Once per day ~ 4P 2.5M+4.6M or 3P 2.5M+2.4M or 2P 2.5M+1.3M (12 hour interval)
 
-5. Bunker / NightClub / CEO Cargo / Hangar = Once per day ~ 7.5M + 8M + 10M + 6M = 31M (24 hour interval)
+MC Business = Recommended to ship Twice per day ~ 7.5M * 2 = 15M (24 hour interval)
+
+Bunker / NightClub / CEO Cargo / Hangar = Once per day ~ 7.5M + 8M + 10M + 6M = 31M (24 hour interval)
 
 [ Console Error ]
+If prompting an error in the console
 
-Q. If prompting an error in the console
-
-A. It should be a problem of MC option
-A. The solution is Use the manual set sell options, manually set the number of inventory, matching the shipping price of 7.5M
+It should be a problem of MC option
+The solution is Use the manual set sell options, manually set the number of inventory, matching the shipping price of 7.5M
 
 [Summary of causes of trading errors]
 
-1. shipping price is not correct
+shipping price is not correct
 
-2. frequent shipments
+frequent shipments
 
-3. someone else is joined or joining
+someone else is joined or joining
 
-4. Wait 30 Seconds Deliver Cargos
+Wait 30 Seconds Deliver Cargos
 
 [Question Summary]
 
