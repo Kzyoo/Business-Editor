@@ -6,7 +6,9 @@
 
 # [Installation]
 
-## Download the file and unzip it, then put the tools folder into Lua Folder
+1. ## Download the file and unzip it, then put the tools folder into Lua Folder
+
+2. ## Enable Untrusted Content /  Setting -> Interface->
 
 # [Tutorials Video]
 
