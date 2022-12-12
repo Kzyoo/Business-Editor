@@ -18,7 +18,12 @@
 
 ## [DIS2RBED Tutorial & Troubleshooting](https://w1tch.net/topic/298-dis2rbed-injection-tutorial-troubleshooting/)
 
-# [Advice for Daily Use] - Use At at your own risk
+# [Advice for Daily Use]
+##Note :
+
+##It is mostly safe to use as recommended, but not 100% guaranteed.
+
+##Use at your own risk!
 
 1. ##  Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M  = 11M
 
