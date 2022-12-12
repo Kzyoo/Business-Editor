@@ -17,7 +17,9 @@ https://w1tch.net/files/file/66-tools/
 https://github.com/modlc/tools
 
 [Installation]
-Download the file and unzip it, then put the tools folder into move to there
+1. Download the file and unzip it, then put the tools folder into move to there
+
+2. Enable Untrusted Content / In the Menu Setting -> Interface
 
 [Tutorials Video]
 https://youtube.com/playlist?list=PLS7kTnJ3PNpkCghLi9cnZLZxLjRsGE4yh
