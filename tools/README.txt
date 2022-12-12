@@ -17,7 +17,7 @@ https://w1tch.net/files/file/66-tools/
 https://github.com/modlc/tools
 
 [Installation]
-1. Download the file and unzip it, then put the tools folder into move to there
+1. Download the file and unzip it, then put the tools folder into Lua Folder
 
 2. Enable Untrusted Content / In the Menu Setting -> Interface
 
@@ -34,6 +34,7 @@ Note :
 It is mostly safe to use as recommended, but not 100% guaranteed.
 
 Use at your own risk!
+
 Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M = 11M
 
 Classic heist = Once Per day ~ Fleeca 6M/15M or Pacific Standard 6M/15M + Mastermind Award 12M (24 hour interval)
