@@ -31,9 +31,9 @@
 
 3. ##  Doom's day Senario Mastermind = Once per day ~ 4P 2.5M+4.6M or 3P 2.5M+2.4M or 2P 2.5M+1.3M (12 hour interval)
 
-4. ##  MC Business = Recommended to ship Twice per day ~ 7.5M * 2 = 15M (24 hour interval)
+4. ##  MC Business = Recommended to ship Twice per day ~ 2.5M * 4 = 10M (24 hour interval)
 
-5. ##  Bunker / NightClub / CEO Cargo / Hangar =  Once per day ~ 7.5M + 8M + 10M + 6M = 31M (24 hour interval)
+5. ##  Bunker / NightClub / CEO Cargo / Hangar = twice per day ~ 5M + 8M + 10M + 6M = 29M (24 hour interval)
 
 # [ Console Error ]                                        
 1. ## If prompting an error in the console
