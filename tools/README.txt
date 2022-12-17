@@ -35,15 +35,15 @@ It is mostly safe to use as recommended, but not 100% guaranteed.
 
 Use at your own risk!
 
-Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M = 11M
+1 Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M = 11M
 
-Classic heist = Once Per day ~ Fleeca 6M/15M or Pacific Standard 6M/15M + Mastermind Award 12M (24 hour interval)
+2 Classic heist = Once Per day ~ Fleeca 6M/15M or Pacific Standard 6M/15M + Mastermind Award 12M (24 hour interval)
 
-Doom's day Senario Mastermind = Once per day ~ 4P 2.5M+4.6M or 3P 2.5M+2.4M or 2P 2.5M+1.3M (12 hour interval)
+3 Doom's day Senario Mastermind = Once per day ~ 4P 2.5M+4.6M or 3P 2.5M+2.4M or 2P 2.5M+1.3M (12 hour interval)
 
-MC Business = Recommended to ship Three per day ~ 2.5M * 3 = 7.5M (24 hour interval)
+4 MC Business = Recommended to ship Three per day ~ 2.5M * 3 = 7.5M (24 hour interval)
 
-Bunker 2.5M/ NightClub 4M / CEO Cargo 5M / Hangar 3M = twice per day ~ 5M + 8M + 10M + 6M = 29M (24 hour interval)
+5 Bunker 5M / NightClub 4M/ CEO Cargo 5M/ Hangar 5M = twice per day ~ = 19M (24 hour interval)
 
 [ Console Error ]
 If prompting an error in the console
