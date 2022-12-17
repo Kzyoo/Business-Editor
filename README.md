@@ -33,7 +33,7 @@
 
 4. ##  MC Business = Recommended to ship Three per day ~ 2.5M * 3 = 7.5M (24 hour interval)
 
-5. ## Bunker 2.5M / NightClub 4M/ CEO Cargo 5M/ Hangar 3M = twice per day ~ 5M+8M+10M+6M = 29M (24 hour interval)
+5. ## Bunker 5M / NightClub 4M/ CEO Cargo 5M/ Hangar 5M = twice per day ~ = 19M (24 hour interval)
 
 # [ Console Error ]                                        
 1. ## If prompting an error in the console
