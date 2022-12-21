@@ -26,22 +26,22 @@
 
 ## Use at your own risk!
 
-1. ##Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M = 11M
+1. ## Cayo->Casino->Dooms day->Dre After the end, wait 1-2 hours and repeat the process. ~ 2.5M+3.5M+2.5M+2.5M = 11M
 
-2. ##Classic heist = Once Per day ~ Fleeca 6M/15M or Pacific Standard 6M/15M + Mastermind Award 12M (24 hour interval)
+2. ## Classic heist = Once Per day ~ Fleeca 6M/15M or Pacific Standard 6M/15M + Mastermind Award 12M (24 hour interval)
 
-3. ##Doom's day Senario Mastermind = Once per day ~ 4P 2.5M+4.6M or 3P 2.5M+2.4M or 2P 2.5M+1.3M (12 hour interval)
+3. ## Doom's day Senario Mastermind = Once per day ~ 4P 2.5M+4.6M or 3P 2.5M+2.4M or 2P 2.5M+1.3M (12 hour interval)
 
 
-4. ##MC Business = Recommend three shipments per day ~ 2.5M * 3 = 7.5M (24 hour interval)
+4. ## MC Business = Recommend three shipments per day ~ 2.5M * 3 = 7.5M (24 hour interval)
 
-5. ##Bunker 5M / NightClub 4M/ CEO Cargo 6M/ Hangar 6M = twice per day ~ = 21M (24 hour interval)
+5. ## Bunker 5M / NightClub 4M/ CEO Cargo 6M/ Hangar 6M = twice per day ~ = 21M (24 hour interval)
 
 # [ Console Error ]
 
-1. ##Make sure your factory have stock
+1. ## Make sure your factory have stock
 
-2. ##If not no stock Use the manual set sell
+2. ## If not no stock Use the manual set sell
 
 # [Summary of causes of trading errors]
 
@@ -49,13 +49,13 @@
 
 ## Other:
 
-1. ##shipping price is not correct
+1. ## Shipping price is not correct
 
-2. ##frequent shipments
+2. ## Frequent shipments
 
-3. ##someone else is joined or joining
+3. ## Someone else is joined or joining
 
-4. ##Wait 30 Seconds Deliver Cargos
+4. ## Wait 30 Seconds Deliver Cargos
 
 # [Question Summary]
 
