@@ -1,4 +1,4 @@
-# [Risk Warning]      -  [[Quick Download]](https://codeload.github.com/modlc/tools/zip/refs/heads/master)
+# [Risk Warning]      -  [[Quick Download]](https://codeload.github.com/modlc/Business-Editor/zip/refs/heads/master)
 
 ## There is no such thing as a daily safety limit, and the conclusion is always that the less the better and Download means at your own risk.
 
@@ -6,7 +6,7 @@
 
 # [Installation]
 
-1. ## Download the file and unzip it, then put the tools folder into Lua Folder
+1. ## Download the file and unzip it, then put the Business Editor folder into Lua Folder
 
 2. ## Enable Untrusted Content /  Setting -> Interface
 
