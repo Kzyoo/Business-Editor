@@ -14,7 +14,7 @@ You will lose the right to submit a Ban Report in the Community
 https://w1tch.net/files/file/66-business-editor/
 
 -  Backup
-https://github.com/modlc/Business-Editor
+https://github.com/Kzyoo/Business-Editor
 
 [Installation]
 1. Download the file and unzip it, then put the Business Editor folder into Lua Folder
